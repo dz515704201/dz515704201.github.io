@@ -132,3 +132,5 @@
 ||42.62.94.119
 ||osupdateservice.yunos.com^
 ||osfota.cdn.aliyun.com^
+||huan.tv^
+||img-appstore.huan.tv
